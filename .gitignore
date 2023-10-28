@@ -161,3 +161,7 @@ cython_debug/
 
 #Ignore hidden file from mac
 .DS_Store
+#Ignore file datos amigos
+/datos-amigos
+#Ignore folder datos
+datos_casa/
